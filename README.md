@@ -1,5 +1,7 @@
 # Data Structures and Algorithms Specialization
 
+This repository contains the programming challenges and my solutions for those challenges done in this coursera specialization. I wasn't able to finish courses 5 and 6 yet. If I finish those courses in the future, I will add solutions to those courses as well.
+
 ### Coursera specialization
 
 Offered By University of California San Diego, National Research University Higher School of Economics
@@ -16,4 +18,3 @@ This specialization is a mix of theory and practice: you will learn algorithmic 
 * Course 4: Algorithms on Strings
 * Course 5: Advanced Algorithms and Complexity
 * Course 6: Genome Assembly Programming Challenge
-
